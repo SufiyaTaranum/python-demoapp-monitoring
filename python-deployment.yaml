@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: pythonweb
-        image: bacdocker/pythonweb:v1
+        image: sufiyataranum/pythondemoapp:v1
         ports:
         - containerPort: 5000
